@@ -1,5 +1,5 @@
 {
-  "server": { "host": "127.0.0.1", "port": 7777 },
+  "server": { "host": "legacy.point-rp.ru", "port": 7777 },
   "launch": {
     "exe": "gta_sa.exe",
     "args": ["-c", "-h", "{host}", "-p", "{port}", "-n", "{nick}"]
@@ -10,8 +10,8 @@
       "name": "Classic",
       "version": "1.0.0",
       "description": "Короткое описание сборки.",
-      "size": 524288000,
-      "sha256": "ВСТАВЬТЕ_SHA256_АРХИВА",
+      "size": 85238890,
+      "sha256": " 0793AAF9A7823915CB968CA797E06380A94701B578FBC846C739BF5F03156E5A",
       "url": "https://github.com/DevS1lence/pointrp-builds/releases/download/classic-1.0.0/classic.zip",
       "image": ""
     }
