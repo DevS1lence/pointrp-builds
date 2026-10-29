@@ -1,11 +1,10 @@
 {
-  "server": { "host": "94.249.144.12", "port": 7777 },
-  "launch": {
-    "exe": "gta_sa.exe",
-    "args": ["-c", "-h", "{host}", "-p", "{port}", "-n", "{nick}"]
-  },
-  "builds": [
-    {
+     "server": { "host": "94.249.144.12", "port": 7777 },
+   "launch": {
+     "exe": "gta_sa.exe",
+     "runAsAdmin": true,
+     "args": []
+   },
       "id": "classic",
       "name": "Classic",
       "version": "1.0.0",
