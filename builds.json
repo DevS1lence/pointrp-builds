@@ -9,10 +9,10 @@
       "id": "classic",
       "name": "Classic",
       "version": "1.0.0",
-      "description": "Короткое описание сборки: что в ней изменено.",
+      "description": "Короткое описание сборки.",
       "size": 524288000,
       "sha256": "ВСТАВЬТЕ_SHA256_АРХИВА",
-      "url": "https://github.com/YOUR_GITHUB_NAME/pointrp-builds/releases/download/classic-1.0.0/classic.zip",
+      "url": "https://github.com/DevS1lence/pointrp-builds/releases/download/classic-1.0.0/classic.zip",
       "image": ""
     }
   ]
