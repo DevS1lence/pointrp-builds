@@ -1,0 +1,19 @@
+{
+  "server": { "host": "127.0.0.1", "port": 7777 },
+  "launch": {
+    "exe": "gta_sa.exe",
+    "args": ["-c", "-h", "{host}", "-p", "{port}", "-n", "{nick}"]
+  },
+  "builds": [
+    {
+      "id": "classic",
+      "name": "Classic",
+      "version": "1.0.0",
+      "description": "Короткое описание сборки: что в ней изменено.",
+      "size": 524288000,
+      "sha256": "ВСТАВЬТЕ_SHA256_АРХИВА",
+      "url": "https://github.com/YOUR_GITHUB_NAME/pointrp-builds/releases/download/classic-1.0.0/classic.zip",
+      "image": ""
+    }
+  ]
+}
